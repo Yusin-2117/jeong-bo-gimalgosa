@@ -29,7 +29,7 @@ item = ['mobile', 'delivery', 'trip', 'shopping']
 cost = [75000, 138450, 94800, 100500]
 
 #원그래프
-#plt.pie(cost, labels=item, autopct='%.2f%%') #autopct는 백분율 표시, %.2f는 소수점 두 자리까지 표시
+#plt.pie(cost, labels=item, autopct='%.2f%%') # %%백분율 표시, %.2f는 소수점 두 자리까지 표시
 #막대그래프
 #plt.bar(item, cost)
 #막대그래프(가로)
